@@ -166,6 +166,7 @@ public class AdaptiveOperatorsEvolutionaryAlgorithm<T> {
 			
 			/*
 			 * OPERATORS MUTATION (On paper: Algorithm 3)
+			 * for details on mutation see operator.OperatorGrammar line 81.
 			 */
 			
 			double prob = 1.0 / (double) popSize;

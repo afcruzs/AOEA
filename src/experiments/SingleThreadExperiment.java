@@ -20,15 +20,6 @@ public class SingleThreadExperiment extends Thread{
 		this.allExperiments.add(experiment);
 	}
 	
-//	public void addExperiment(int popSize, int iterations,
-//			int operatorsPerIndividual, int numberOfExperiments, int degree,
-//			String fileName, String outFileName) {
-//		
-//		this.allExperiments.add(new DCMSTExperiment(popSize, iterations,
-//				operatorsPerIndividual, numberOfExperiments, degree, fileName,
-//				outFileName));
-//	}
-
 	@Override
 	public void run() {
 		for(GenericExperiment experiment : allExperiments){
@@ -43,7 +34,6 @@ public class SingleThreadExperiment extends Thread{
 	@Override
 	public String toString() {
 		return allExperiments.toString();
-//		return allExperiments.size()+"";
 	}
 	
 }
