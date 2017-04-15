@@ -19,8 +19,9 @@ the paper.
 
 A number of benchmarking functions were implemented in the package benchmarking.real. Every experiment consists
 of run an algorithm by a certain number of iterations. Each experiment is repeated K times in order to analyze
-the average results of the algorithms. Since repeating the experiments can take a lot of time, we implemented
-a multithread experiments scheme to a number (defined by the user) of experiments independently on a thread.
+the average results of the algorithms. Since repeating the experiments can take a lot of time, we divide the
+computation on different threads. The number of experiments that are run sequentally on a single thread is 
+defined by the user.
 
 The experiments configuration is read from a file with the given format:
 ```
