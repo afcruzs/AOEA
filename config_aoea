@@ -1,0 +1,13 @@
+AOEA
+Schwefel;10;Schwefel_1000;50;500;16;50
+Schwefel;10;Schwefel_1000;100;500;16;50
+Shubert2D;10;Shubert2D_1000;50;500;16;50
+Shubert2D;10;Shubert2D_1000;100;500;16;50
+TwoPeakTrap;10;TwoPeakTrap_1000;50;500;16;50
+TwoPeakTrap;10;TwoPeakTrap_1000;100;500;16;50
+H1;10;H1_1000;50;500;16;50
+H1;10;H1_1000;100;500;16;50
+Himmelblau;10;Himmelblau_1000;50;500;16;50
+Himmelblau;10;Himmelblau_1000;100;500;16;50
+Schaffer;10;Schaffer_1000;50;500;16;50
+Schaffer;10;Schaffer_1000;100;500;16;50
