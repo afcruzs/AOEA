@@ -11,7 +11,7 @@ the paper.
 ## Three algorithms were implemented: 
 
 *   A Genetic Algorithm with real encoding (GA)
-*   Hybrid Adaptive Evolutionary Algorithm (HAEA)
+*   Hybrid Adaptive Evolutionary Algorithm (HAEA) [Paper link](http://dis.unal.edu.co/~jgomezpe/docs/papers/gecco2004haea.pdf)
 *   Adaptive Operators Evolutionary Algorithm (AOEA) [This is the proposed approach of this work]
 
 
