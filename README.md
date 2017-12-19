@@ -2,7 +2,7 @@
 #### Universidad Nacional de Colombia - Alife research group
 
 
-This is the supplementary material for "Self-adaptation of Genetic Operators Through Genetic Programming Techniques"
+This is the supplementary material for "[Self-adaptation of Genetic Operators Through Genetic Programming Techniques](https://arxiv.org/abs/1712.06070)"
 presented at [GECCO 2017](http://gecco-2017.sigevo.org/index.html/HomePage) ([Andrés Felipe Cruz Salinas](https://github.com/afcruzs), [Jonatan Gómez Perdomo](http://dis.unal.edu.co/~jgomezpe/)). This repository contains the source code to reproduce the experiments mentioned on 
 the paper.
 
